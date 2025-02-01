@@ -1,0 +1,9 @@
+auth_api =  Enter your API
+userdata_api = Enter your API
+premises_url = Enter your API
+TELEGRAM_TOKEN = Enter your Telegram Token
+service_api = Enter your API
+existing_ticket_api = Enter your API
+request_image_api = ""
+USERNAME = Enter Username
+PASSWORD = Enter Password
